@@ -12,6 +12,7 @@ const Navbar = () => {
                         <li><a>Home</a></li>
                         <li><a>About</a></li>
                         <li><a>Projects</a></li>
+                        <li><a>Blogs</a></li>
                         <li><a>Contact</a></li>
                     </ul>
                 </div>
@@ -22,11 +23,12 @@ const Navbar = () => {
                     <li><a>Home</a></li>
                     <li><a>About</a></li>
                     <li><a>Projects</a></li>
+                    <li><a>Blogs</a></li>
                     <li><a>Contact</a></li>
                 </ul>
             </div>
             <div class="navbar-end">
-                <a href='https://drive.google.com/file/d/17IPdzOhMD7_Ms4B_pOm5IhWqiYpiEEez/view?usp=sharing' class="btn">Resume</a>
+                <a href='https://drive.google.com/file/d/17IPdzOhMD7_Ms4B_pOm5IhWqiYpiEEez/view?usp=sharing' class="btn">Download Resume</a>
             </div>
         </div>
     );
